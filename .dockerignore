@@ -1,0 +1,9 @@
+e2e
+
+.eslint*
+.git*
+.prettier
+
+LICENSE*
+
+*.md
